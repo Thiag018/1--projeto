@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2? family= Justo & family= Sarala & display=swap');
+
+*{ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.body {
+  font-size: 50;
+  background: 68.15deg, #2F2325 
+  16.26% #8E5D52 85.61%
+}
+
+.cabeçalho { 
+  display: flex;
+  flex-direction: row; 
+  align-items: center;
+  justify-content: space-around;
+  padding: 24px;
+}
+
+.cabeçalho-imagem {
+  height: 72px;
+}
+
+.cabeçalho-menu { 
+  display: flex;
+  gap: 32px;
+}
+
+.cabeçalho-menu-item {
+  font-family: "Sarala", Sans-Serif;
+  color: #FFF2E7;
+  font-weight: 400;
+  font-size: 18px;
+  
+}
